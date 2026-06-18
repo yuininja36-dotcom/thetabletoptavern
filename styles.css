@@ -54,6 +54,11 @@ body {
     gap: 0.5rem;
 }
 
+.logo-image {
+    height: 40px;
+    width: auto;
+}
+
 .sword-icon {
     color: var(--amber-500);
 }
